@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHemsire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hemsire>
+    <Ad>Nazlı</Ad>
+    <Soyad>Coşkun</Soyad>
+    <TCKN>53617844453</TCKN>
+    <Telefon>5675434312</Telefon>
+    <DogumTarihi>1997-02-12T11:13:58</DogumTarihi>
+    <Cinsiyet>Kadın</Cinsiyet>
+    <Brans>GenelCerrahi</Brans>
+    <Maas>1404</Maas>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Bora</Ad>
+    <Soyad>Gürpınar</Soyad>
+    <TCKN>70985404801</TCKN>
+    <Telefon>3214312121</Telefon>
+    <DogumTarihi>1985-06-02T12:02:47</DogumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Brans>FizikTedavi</Brans>
+    <Maas>1404</Maas>
+  </Hemsire>
+</ArrayOfHemsire>

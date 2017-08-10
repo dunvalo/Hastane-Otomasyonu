@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personel>
+    <Ad>Mahmun</Ad>
+    <Soyad>Ünlü</Soyad>
+    <TCKN>72126906400</TCKN>
+    <Telefon>1234321221</Telefon>
+    <DogumTarihi>1888-06-02T11:14:38</DogumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <PersonelBrans>Temizlikci</PersonelBrans>
+    <Maas>1404</Maas>
+  </Personel>
+</ArrayOfPersonel>

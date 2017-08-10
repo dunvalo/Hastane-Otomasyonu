@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDoktor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doktor>
+    <Ad>Celil</Ad>
+    <Soyad>Karahasanoğlu</Soyad>
+    <TCKN>81323909395</TCKN>
+    <Telefon>5394084969</Telefon>
+    <DogumTarihi>1994-10-13T11:12:57</DogumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Brans>FizikTedavi</Brans>
+    <BagliHemsireler />
+    <Maas>3000</Maas>
+  </Doktor>
+  <Doktor>
+    <Ad>Selahattin Erk</Ad>
+    <Soyad>Karahasanoğlu</Soyad>
+    <TCKN>37368717254</TCKN>
+    <Telefon>5435123243</Telefon>
+    <DogumTarihi>1996-08-28T11:12:57</DogumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Brans>Ortopedi</Brans>
+    <BagliHemsireler />
+    <Maas>3000</Maas>
+  </Doktor>
+  <Doktor>
+    <Ad>Melih</Ad>
+    <Soyad>Karahasanoğlu</Soyad>
+    <TCKN>98570498709</TCKN>
+    <Telefon>5435123243</Telefon>
+    <DogumTarihi>1996-08-28T11:12:57</DogumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Brans>Ortopedi</Brans>
+    <BagliHemsireler />
+    <Maas>3000</Maas>
+  </Doktor>
+</ArrayOfDoktor>

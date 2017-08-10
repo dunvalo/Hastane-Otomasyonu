@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hasta>
+    <Ad>Samet</Ad>
+    <Soyad>Metin</Soyad>
+    <TCKN>79690574378</TCKN>
+    <Telefon>3213213211</Telefon>
+    <DogumTarihi>1859-06-02T11:15:04</DogumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+  </Hasta>
+</ArrayOfHasta>
